@@ -4,12 +4,13 @@ Proje Ana Sayfası: [ahtapot.org.tr](http://ahtapot.org.tr)
 
 Ulakbim önderliğinde gerçekleştirilmekte olan Ahtapot, tüm kamu ve özel sektor kuruluşlarında kullanılmak üzere dizayn edilen tam teşekküllü bir Açık Kaynak Kodlu Bütünleşik Siber Güvenlik Sistemi projesinin ismidir.
 
-Ahtapot, Pardus Linux üzerine inşa edilen ve bir kurumun ihtiyaç duyacağı tüm siber güvenlik bileşenlerini birbirleri ile entegre ve merkezi yönetilebilir bir şeklinde sunmaktadır.
+Ahtapot, Pardus Linux üzerine inşa edilmiştir  ve bir kurumun ihtiyaç duyacağı tüm siber güvenlik bileşenlerini birbirleri ile entegre ve merkezi yönetilebilir bir şeklinde sunmaktadır. Bazı bileşenlerin entegrasyon ve AR-GE çalışmaları halen devam etmektedir.
 
 ## Bileşenler
 
+* Merkezi Yönetim Sistemi (MYS)
 * Güvenlik Duvarı Yönetim Sistemi (GDYS)
-* Güvenli İnternet Erişim Sistemi (GİnES)
+* Güvenli İnternet Erişim Sistemi (GİnES)
 * Siber Olay, Açıklık, Risk İzleme ve Yönetim Sistemi
 * Sanal Özel Ağ (VPN) Sistemi
 * Saldırı Tespit / Önleme Sistemi (IDS/IPS)
@@ -26,7 +27,7 @@ Tüm Ahtapot bileşenlerine ait kurulum ve yapılandırma yönergeleri bu doküm
 
 ## Lisans
 
-Tüm bileşenler GPL v3 lisansı ile lisanslanmış olup, tamamen açık kaynak kodludur. Kaynak kodları için bir git deposu [https://github.com/Pardus-Ahtapot](https://github.com/Pardus-Ahtapot) ve deb paketleri için paket depoları [http://depo.pardus.org.tr/ahtapot/](http://depo.pardus.org.tr/ahtapot/) ile [http://depo.pardus.org.tr/ahtapot-siem/](http://depo.pardus.org.tr/ahtapot-siem/)  Ulakbim Pardus Ekibi tarafından işletilmektedir.
+Tüm bileşenler GPL v3 lisansı ile lisanslanmış olup, tamamen açık kaynak kodludur. Kaynak kodları için bir git deposu [https://github.com/Pardus-Ahtapot](https://github.com/Pardus-Ahtapot) ve deb paketleri için paket depoları [http://depo.pardus.org.tr/ahtapot/](http://depo.pardus.org.tr/ahtapot/) ile [http://depo.pardus.org.tr/ahtapot-siem/](http://depo.pardus.org.tr/ahtapot-siem/) Ulakbim Pardus Ekibi tarafından işletilmektedir.
 
 GPL lisans detayları için bkz: [http://ozgurlisanslar.org.tr/gpl/gpl-v3/](http://ozgurlisanslar.org.tr/gpl/gpl-v3/)
 
